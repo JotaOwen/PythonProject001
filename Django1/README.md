@@ -1,7 +1,7 @@
 Guestbook
 =========
 
-Proyecto para el taller de Django de post.mejorando.la
+Example Django
 
 Notas:
 -----
